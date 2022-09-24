@@ -12,3 +12,12 @@ Framework:
 and compares them with the Question answer to determine whether it is correct. When a student is added to the VotingSimulator's list, it will check if the student 
 is already in it and will just replace it.
 * SimulationDriver.java is a class that will make dummy questions and students to test the classes above. It is the main class.
+
+
+## Video Walkthrough
+
+Here's a walkthrough of the code:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](https://www.cockos.com/licecap/) 
